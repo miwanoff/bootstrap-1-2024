@@ -1,0 +1,18 @@
+.parallax {
+  background-color: #185899;
+  background-image: url(images/startup.png), url(images/mars2.jpg);
+  background-position: 120px 520px, center -20px;
+  background-attachment: fixed, fixed;
+  background-size: 100px 100px, cover;
+  background-repeat: no-repeat, no-repeat;
+  color: hsl(0, 0%, 100%);
+  padding: 180px;
+}
+.bg-light {
+  background-color: white;
+}
+
+header .btn {
+  border: solid 2px;
+  font-weight: 600;
+}
